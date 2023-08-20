@@ -1,5 +1,5 @@
 window.onload = function () {
-    fetch('navbar.html')
+    fetch('../dist/navbar.html')
         .then(response => response.text())
         .then(data => {
             const navbarContainer = document.getElementById('navbar-container');
