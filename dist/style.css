@@ -568,6 +568,11 @@ video {
   margin-bottom: 0.5rem;
 }
 
+.my-52 {
+  margin-top: 13rem;
+  margin-bottom: 13rem;
+}
+
 .mb-2 {
   margin-bottom: 0.5rem;
 }
@@ -636,6 +641,10 @@ video {
   margin-top: 8rem;
 }
 
+.mt-auto {
+  margin-top: auto;
+}
+
 .block {
   display: block;
 }
@@ -678,6 +687,10 @@ video {
 
 .h-screen {
   height: 100vh;
+}
+
+.min-h-screen {
+  min-height: 100vh;
 }
 
 .w-12 {
@@ -755,6 +768,10 @@ video {
 
 .grid-cols-1 {
   grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+.flex-col {
+  flex-direction: column;
 }
 
 .flex-wrap {
