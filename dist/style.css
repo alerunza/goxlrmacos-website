@@ -568,6 +568,16 @@ video {
   margin-bottom: 13rem;
 }
 
+.my-56 {
+  margin-top: 14rem;
+  margin-bottom: 14rem;
+}
+
+.my-60 {
+  margin-top: 15rem;
+  margin-bottom: 15rem;
+}
+
 .mb-2 {
   margin-bottom: 0.5rem;
 }
@@ -895,6 +905,14 @@ video {
 
 .pt-4 {
   padding-top: 1rem;
+}
+
+.pt-28 {
+  padding-top: 7rem;
+}
+
+.pt-1 {
+  padding-top: 0.25rem;
 }
 
 .text-center {
